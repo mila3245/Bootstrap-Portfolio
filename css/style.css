@@ -10,6 +10,14 @@ h3 {
     background-image: url(../images/hero.jpg);
     background-repeat: no-repeat;
 }
+
+.cardcontainer {
+    margin-bottom: 15px;
+
+}
+.card {
+margin:0 auto;
+}
 .work {
   
     text-align: center;
