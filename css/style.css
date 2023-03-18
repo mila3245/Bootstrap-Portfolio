@@ -6,8 +6,14 @@
 h3 {
  margin: 0%;
 }
+.jumbotron {
+    background-image: url(../images/hero.jpg);
+    background-repeat: no-repeat;
+}
 .work {
-    background-image: url(../images/images.jpg);
+  
+    text-align: center;
+
 }
 .skills {
     
